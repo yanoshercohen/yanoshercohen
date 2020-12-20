@@ -23,9 +23,6 @@
 	💻 Desktop Programmer
 	</a>
 	<br/>
-	<a>
-	🎨 UI/UX Designer (Adobe Photoshop CC)
-	</a><br/>
 	<br/><b>My skills:</b>
 	<br/><br/>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
