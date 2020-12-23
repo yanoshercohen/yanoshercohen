@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 	<a href="#">
-	<img width="70%" src="https://user-images.githubusercontent.com/74152828/102718471-eb2b4d80-42f0-11eb-8924-9dc3e47d66cf.png">
+	<img width="70%" src="https://user-images.githubusercontent.com/74152828/102999057-07b5c880-4531-11eb-9e8e-9c86ac7f83aa.png">
 	</a>
 </p>
 <p align="center">
