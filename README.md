@@ -26,29 +26,29 @@
 	<br/><b>My skills:</b>
 	<br/><br/>
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 	</a>
 	<a href="https://www.php.net/">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/php/php-original.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	</a>
 	<br/>
 	<a href="https://www.w3schools.com/html/">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	</a>
 	<a href="https://jquery.com/">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 	</a>
 	<a href="https://nodejs.org/en/">
-	<img width="32px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 	</a>
 	<a href="https://www.adobe.com/il_he/products/photoshop.html">
-	<img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png">
+	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 	</a>
 </p>
 <h1>
