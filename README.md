@@ -8,15 +8,11 @@
 </p>
 <p align="center">
 	<a>
-	🎓 Senior High school
+	💻 Security Researcher
 	</a>
 	<br/>
 	<a>
-	🎂 17.8 Years Old
-	</a>
-	<br/>
-	<a>
-	🌐 Junior Web BE \ FS Developer
+	🌐 Web Backend Developer - Node.js
 	</a>
 	<br/>
 	<a>
