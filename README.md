@@ -63,7 +63,4 @@
 	<img alt="Yan's Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
-	<a href="https://www.reddit.com/user/immediantelypay">
-	<img alt="Yan's Reddit" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" style="max-width:100%;">
-	</a>
 </p>
