@@ -46,6 +46,10 @@
 	<a href="https://www.adobe.com/il_he/products/photoshop.html">
 	<img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 	</a>
+	<br/>
+	<a href="https://www.python.org/">
+	<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+	</a>
 </p>
 <h1>
 	<br/>
