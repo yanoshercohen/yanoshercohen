@@ -12,11 +12,7 @@
 	</a>
 	<br/>
 	<a>
-	🌐 Web Backend Developer - Node.js
-	</a>
-	<br/>
-	<a>
-	💻 Desktop Programmer
+	I ❤ To Code
 	</a>
 	<br/>
 	<br/><b>My skills:</b>
