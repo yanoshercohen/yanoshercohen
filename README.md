@@ -12,7 +12,7 @@
 	</a>
 	<br/>
 	<a>
-	I ❤ To Code
+	I ❤ To Code && Research
 	</a>
 	<br/>
 	<br/><b>My skills:</b>
