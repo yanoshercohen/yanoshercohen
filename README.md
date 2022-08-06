@@ -15,8 +15,7 @@
 	I ❤ To Code && Research
 	</a>
 	<br/>
-	<br/><b>My skills:</b>
-	<br/><br/>
+	
 </p>
 <h1>
 	<br/>
