@@ -25,6 +25,7 @@
 	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
+	<a href="https://linkedin.com/in/yanoshercohen">
 	<img alt="Yan's LinkedIN" width="32px" src="https://img.icons8.com/?size=256&id=13930&format=png" style="max-width:100%;">
 	</a>
 </p>
