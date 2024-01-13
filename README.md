@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 	<a href="#">
-	<img width="40%" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/260ad5d6-fcce-4d6c-8ccb-70b6e657229e">
+	<img width="40%" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/a25e8c88-840b-4ebb-8b24-fabce01fada6">
 	</a>
 </p>
 <p align="center">
