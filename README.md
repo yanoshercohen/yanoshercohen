@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
 	<a href="#">
-	<img width="70%" src="https://cdn.discordapp.com/attachments/463142599520157696/880984307043303454/github-new-banner.png">
+	<img width="40%" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/260ad5d6-fcce-4d6c-8ccb-70b6e657229e">
 	</a>
 </p>
 <p align="center">
