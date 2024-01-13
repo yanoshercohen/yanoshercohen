@@ -22,10 +22,10 @@
 </h1>
 <p align="center">
 	<a href="https://twitter.com/0x7F454C">
-	<img alt="Yan's Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
+	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/?size=256&id=phOKFKYpe00C&format=png" style="max-width:100%;">
 	</a>
 	<img width="5px" src="https://qph.fs.quoracdn.net/main-qimg-345119fcedb725b632fedb335c080785.webp">
 	<a href="https://www.linkedin.com/in/yanoc/">
-	<img alt="Yan's LinkedIN" width="32px" src="" style="max-width:100%;">
+	<img alt="Yan's LinkedIN" width="32px" src="https://img.icons8.com/?size=256&id=13930&format=png" style="max-width:100%;">
 	</a>
 </p>
