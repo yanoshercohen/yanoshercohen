@@ -1,6 +1,7 @@
 <h1>
-	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png"></a> </p>
+	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/fef03325-cd05-4b43-8f2c-0155f0a1f537"></a> </p>
 </h1>
+
 <p align="center">
 	<a href="#">
 	<img width="40%" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/a25e8c88-840b-4ebb-8b24-fabce01fada6">
