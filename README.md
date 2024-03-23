@@ -1,5 +1,5 @@
 <h1>
-	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/fef03325-cd05-4b43-8f2c-0155f0a1f537"></a> </p>
+	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/260ad5d6-fcce-4d6c-8ccb-70b6e657229e"></a> </p>
 </h1>
 
 <p align="center">
