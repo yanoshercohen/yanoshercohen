@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="#">
-	<img width="40%" src="https://github.com/yanoshercohen/yanoshercohen/assets/74152828/fef03325-cd05-4b43-8f2c-0155f0a1f537">
+	<img width="40%" src="https://github.com/user-attachments/assets/6b1111f6-35da-40b4-b38e-f19e4afc7906">
 	</a>
 </p>
 <p align="center">
