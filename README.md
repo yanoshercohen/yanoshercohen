@@ -22,7 +22,7 @@
 	<br/>
 </h1>
 <p align="center">
-	<a href="https://twitter.com/0x7F454C">
+	<a href="https://x.com/0x7F454C">
 	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/plasticine/100/twitterx.png" style="width:3vw;text-decoration: none;">
 	</a>
 	<a>&ensp;</a>
