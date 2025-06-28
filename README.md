@@ -23,7 +23,11 @@
 </h1>
 
 <p align="center">
-  [![Twitter](https://img.icons8.com/plasticine/100/twitterx.png)](https://x.com/0x7F454C)
-  &nbsp;
-  [![LinkedIn](https://img.icons8.com/plasticine/100/linkedin.png)](https://linkedin.com/in/yanoc)
+  <a href="https://x.com/0x7F454C">
+    <img alt="Yan's Twitter" width="64" src="https://img.icons8.com/plasticine/100/twitterx.png"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yanoc">
+    <img alt="Yan's LinkedIn" width="64" src="https://img.icons8.com/plasticine/100/linkedin.png"/>
+  </a>
 </p>
