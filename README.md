@@ -7,8 +7,8 @@ Hi there 👋
 </p>
 <div align="center">
 <pre style="font-size: 10px; line-height: 1; color: #333; background: #f8f8f8; padding: 10px; border-radius: 10px;">
-__   __
-\ \ / /
+__   __          
+\ \ / /          
  \ V / _` | '_ \
   | | (_| | | | |
   |_|\__,_|_| |_|
