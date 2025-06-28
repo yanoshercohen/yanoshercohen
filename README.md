@@ -24,9 +24,8 @@
 
 <p align="center">
   <a href="https://x.com/0x7F454C">
-    <img alt="Yan's Twitter" width="64" src="https://img.icons8.com/plasticine/100/twitterx.png" style="margin-right:20px;">
-  </a>
-  <a href="https://linkedin.com/in/yanoc">
-    <img alt="Yan's LinkedIn" width="64" src="https://img.icons8.com/plasticine/100/linkedin.png">
+    <img alt="Yan's Twitter" src="https://img.icons8.com/plasticine/100/twitterx.png" width="48" style="margin-right: 20px;">
+  </a><a href="https://linkedin.com/in/yanoc">
+    <img alt="Yan's LinkedIn" src="https://img.icons8.com/plasticine/100/linkedin.png" width="48">
   </a>
 </p>
