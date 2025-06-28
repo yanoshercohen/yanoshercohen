@@ -1,5 +1,5 @@
 <h1>
-	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png"></a> </p>
+	<p onload="(()=>{document.write('test')})();" align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png"></a> </p>
 </h1>
 
 <p align="center">
