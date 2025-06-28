@@ -21,12 +21,9 @@
 <h1>
 	<br/>
 </h1>
+
 <p align="center">
-	<a href="https://x.com/0x7F454C" style="display:inline-block;">
-	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/plasticine/100/twitterx.png" style="width:4rem;">
-	</a>
-	<a>&ensp;</a>
-	<a href="https://linkedin.com/in/yanoc" style="display:inline-block;">
-	<img alt="Yan's LinkedIN" width="32px" src="https://img.icons8.com/plasticine/100/linkedin.png" style="width:4rem;">
-	</a>
+  [![Twitter](https://img.icons8.com/plasticine/100/twitterx.png)](https://x.com/0x7F454C)
+  &nbsp;
+  [![LinkedIn](https://img.icons8.com/plasticine/100/linkedin.png)](https://linkedin.com/in/yanoc)
 </p>
