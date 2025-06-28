@@ -22,11 +22,11 @@
 	<br/>
 </h1>
 <p align="center">
-	<a href="https://x.com/0x7F454C" style="text-decoration: none;">
-	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/plasticine/100/twitterx.png" style="width:4rem;text-decoration: none;">
+	<a href="https://x.com/0x7F454C">
+	<img alt="Yan's Twitter" width="32px" src="https://img.icons8.com/plasticine/100/twitterx.png" style="width:4rem;display:inline-block;">
 	</a>
 	<a>&ensp;</a>
-	<a href="https://linkedin.com/in/yanoc" style="text-decoration: none;">
-	<img alt="Yan's LinkedIN" width="32px" src="https://img.icons8.com/plasticine/100/linkedin.png" style="width:4rem;text-decoration: none;">
+	<a href="https://linkedin.com/in/yanoc">
+	<img alt="Yan's LinkedIN" width="32px" src="https://img.icons8.com/plasticine/100/linkedin.png" style="width:4rem;display:inline-block;">
 	</a>
 </p>
