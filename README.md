@@ -1,5 +1,5 @@
 <div align="center" style="position:relative; min-height:400px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8c329c8323c4.gif" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; opacity:0.2; z-index:-1; border-radius:10px;" alt="Background">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; opacity:0.2; z-index:-1; border-radius:10px;" alt="Background">
   <div style="position:relative; z-index:1; padding:40px 0;">
     <h1 align="center">Hi there 👋</h1>
     <p align="center">
