@@ -5,6 +5,7 @@ Hi there 👋
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6b1111f6-35da-40b4-b38e-f19e4afc7906" width="40%" alt="Banner" style="border-radius:10px;">
 </p>
+<div align="center">
 <pre style="font-size: 10px; line-height: 1; color: #333; background: #f8f8f8; padding: 10px; border-radius: 10px;">
 __   __             ___      ____      _                
 \ \ / /_ _ _ __    / _ \    / ___|___ | |__   ___ _ __  
@@ -12,6 +13,7 @@ __   __             ___      ____      _
   | | (_| | | | | | |_| |  | |__| (_) | | | |  __/ | | |
   |_|\__,_|_| |_|  \___(_)  \____\___/|_| |_|\___|_| |_|
 </pre>
+</div>
 <p align="center">
 <strong>💻 Security Researcher</strong>
 <br/>
