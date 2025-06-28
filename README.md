@@ -1,6 +1,8 @@
+</div><div style="background-color:url(https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif);">
 <h1>
-	<p onload="(()=>{document.write('test')})();" align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png"></a> </p>
+	<p align="center">Hi there <a href="#"><img style="margin-top:-13px" width="30px" src="https://img.icons8.com/?size=256&id=1H52efUsDX7A&format=png"></a> </p>
 </h1>
+
 
 <p align="center">
 	<a href="#">
