@@ -9,7 +9,7 @@
 <p align="center">
   <strong>💻 Security Researcher</strong>
   <br/>
-  <em>I ❤️ to Hack & Researching</em>
+  <em>I ❤️ to Hack & Research</em>
 </p>
 
 ---
