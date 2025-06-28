@@ -17,7 +17,7 @@ __   __
 <p align="center">
 <strong>💻 Security Researcher</strong>
 <br/>
-<em>I ❤️ to Hack & Research</em>
+<p>I ❤️ to Hack & Research</p>
 </p>
 
 ---
