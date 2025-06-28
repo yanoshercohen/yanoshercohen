@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there 👋
-  <img src="https://img.icons8.com/?size=256&id=1H52ef7sDX7A&format=png" width="30" style="margin-top:-10px;" alt="Wave">
 </h1>
 
 <p align="center">
