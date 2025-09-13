@@ -27,6 +27,9 @@ __   __
 <strong>Social Engineering | Geopolitics | AI | Cybersecurity</strong>
 </p>
 
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanoshercohen&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a)](https://github.com/anuraghazra/github-readme-stats)
+[![Yan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yanoshercohen&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
 <a href="https://x.com/0x7F454C">
