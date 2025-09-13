@@ -28,8 +28,12 @@ __   __
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yanoshercohen&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a" height="190px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanoshercohen&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a" height="190px">
+<a href="https://github.com/anuraghazra/convoychat">
+<img src="https://github-readme-stats.vercel.app/api?username=yanoshercohen&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a" height=190>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanoshercohen&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a" height=190>
+</a>
 </p>
 
 <h2 align="center">🌐 Connect With Me</h2>
