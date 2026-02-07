@@ -36,7 +36,7 @@ __   __
 <a href="https://x.com/0x7F454C">
 <img src="https://img.icons8.com/plasticine/100/twitterx.png" width="48" alt="Twitter/X">
 </a>
-<a href="https://linkedin.com/in/yanoc">
+<a href="https://linkedin.com/in/nvidia">
 <img src="https://img.icons8.com/plasticine/100/linkedin.png" width="48" alt="LinkedIn">
 </a>
 </p>
